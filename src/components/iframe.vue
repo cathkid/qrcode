@@ -52,7 +52,7 @@
 <script>
 import '../assets/font/iconfont.css';	
 export default {
-  name: 'head',
+  name: 'iframe',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
